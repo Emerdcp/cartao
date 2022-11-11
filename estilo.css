@@ -58,15 +58,16 @@ body{
 .titulo{
     color: #9a031e;
     font-size: 38px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 800;
+    font-family: 'Comic Sans MS',Georgia, 'Times New Roman', Times;
+    font-weight: 900;
     font-style: italic;
 }
 
 .subtitulo{
     color: #2e020a;
     font-size: 26px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Comic Sans MS',Georgia, 'Times New Roman', Times;;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-weight: 600;
     font-style: italic;
 }
@@ -74,7 +75,7 @@ body{
 .texto{
     color: #080506;
     font-size: 18px;
-    font-family: Arial, 'Times New Roman', Times, serif;
+    font-family: 'Comic Sans MS',Georgia, 'Times New Roman', Times;
     font-weight: 500;
     /* font-style: italic; */
 }
@@ -84,7 +85,7 @@ body{
     border: 2px solid black;
     display: inline-block;
     margin-top: 10px;
-    width: 400px;
+    width: 600px;
     color: black;
     line-height: 50px;
     text-transform: uppercase;
